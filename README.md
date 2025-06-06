@@ -11,7 +11,7 @@ The major aim of this project is to develop an interactive dashboard to understa
 
 ## 🔗Dataset Used: 
 
-Adidas_Sales_Analysis/Adidas US Sales Datasets.xlsx at main · prateek-b10/Adidas_Sales_Analysis
+https://github.com/prateek-b10/Adidas_Sales_Analysis/blob/main/Adidas%20US%20Sales%20Datasets.xlsx
 
 ## 🔎📉 Key insights from the dashboard: 
 
