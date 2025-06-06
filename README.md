@@ -59,7 +59,7 @@ https://github.com/prateek-b10/Adidas_Sales_Analysis/blob/main/Adidas%20US%20Sal
 
 ## Dashboard: 
 
-🔗 Adidas_Sales_Analysis/Adidas Sales Analysis.pbix at main · prateek-b10/Adidas_Sales_Analysis
+🔗 https://github.com/prateek-b10/Adidas_Sales_Analysis/blob/main/Adidas%20Sales%20Analysis.pbix
 
 ![Adidas_1](https://github.com/user-attachments/assets/e01a692f-9fac-4c46-8316-a769d6f30dcc)
 
